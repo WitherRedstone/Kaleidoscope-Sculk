@@ -1,0 +1,21 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "kaleidoscope_sculk:sculk_fungus"
+    },
+    {
+      "item": "kaleidoscope_sculk:sculk_dust"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_sculk:sculk_chicken_stew_block"
+  }
+}

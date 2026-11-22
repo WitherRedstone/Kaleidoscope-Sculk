@@ -1,0 +1,18 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_sculk:ancient_bone_fragment"
+    },
+    {
+      "item": "kaleidoscope_sculk:ancient_bone_fragment"
+    },
+    {
+      "item": "kaleidoscope_sculk:ancient_bone_fragment"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_sculk:pork_ancient_bone_soup"
+  }
+}
