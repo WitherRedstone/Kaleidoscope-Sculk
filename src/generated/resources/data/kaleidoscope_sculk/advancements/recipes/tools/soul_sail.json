@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ancient_bone_fragment": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_sculk:ancient_bone_fragment"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_silent_upgrade_smithing_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_sculk:silent_upgrade_smithing_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kaleidoscope_sculk:soul_sail"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_silent_upgrade_smithing_template",
+      "has_ancient_bone_fragment",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kaleidoscope_sculk:soul_sail"
+    ]
+  },
+  "sends_telemetry_event": false
+}

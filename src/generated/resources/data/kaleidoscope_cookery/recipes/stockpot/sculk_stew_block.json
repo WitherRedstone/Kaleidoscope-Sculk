@@ -1,0 +1,36 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "carrier": {
+    "item": "minecraft:flower_pot"
+  },
+  "cooking_bubble_color": 16772291,
+  "cooking_texture": "kaleidoscope_cookery:stockpot/default_cooking",
+  "finished_bubble_color": 16034443,
+  "finished_texture": "kaleidoscope_cookery:stockpot/default_finished",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_sculk:sculk_fungus"
+    },
+    {
+      "item": "kaleidoscope_sculk:sculk_fungus"
+    },
+    {
+      "item": "kaleidoscope_sculk:sculk_fungus"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:raw_meats"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "kaleidoscope_sculk:sculk_stew_block"
+  },
+  "soup_base": "minecraft:water",
+  "time": 300
+}

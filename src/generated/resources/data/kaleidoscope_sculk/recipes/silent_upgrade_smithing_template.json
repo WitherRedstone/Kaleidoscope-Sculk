@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "kaleidoscope_sculk:warden_tendril"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "T": {
+      "tag": "kaleidoscope_sculk:smithing_templates"
+    }
+  },
+  "pattern": [
+    "BEB",
+    "BTB",
+    "BBB"
+  ],
+  "result": {
+    "item": "kaleidoscope_sculk:silent_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

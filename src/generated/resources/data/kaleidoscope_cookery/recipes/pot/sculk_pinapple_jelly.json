@@ -1,0 +1,25 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_sculk:sculk_flesh"
+    },
+    {
+      "item": "kaleidoscope_sculk:sculk_flesh"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "item": "kaleidoscope_sculk:sculk_pinapple_jelly"
+  },
+  "stir_fry_count": 4,
+  "time": 200
+}

@@ -1,0 +1,22 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "carrier": {
+    "item": "minecraft:stick"
+  },
+  "ingredients": [
+    {
+      "item": "kaleidoscope_cookery:qingtuan"
+    },
+    {
+      "item": "kaleidoscope_cookery:qingtuan"
+    },
+    {
+      "item": "kaleidoscope_sculk:sculk_pinapple"
+    }
+  ],
+  "result": {
+    "item": "kaleidoscope_sculk:erosion_dumpling_skewer"
+  },
+  "stir_fry_count": 3,
+  "time": 200
+}

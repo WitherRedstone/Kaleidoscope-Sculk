@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:not",
+          "value": {
+            "type": "forge:mod_loaded",
+            "modid": "kaleidoscope_chinesefood"
+          }
+        }
+      ],
+      "recipe": {
+        "type": "kaleidoscope_cookery:pot",
+        "ingredients": [
+          {
+            "item": "kaleidoscope_sculk:sculk_dough"
+          },
+          {
+            "item": "kaleidoscope_sculk:warden_tendril"
+          },
+          {
+            "item": "kaleidoscope_sculk:warden_tendril"
+          },
+          {
+            "item": "kaleidoscope_sculk:warden_tendril"
+          }
+        ],
+        "result": {
+          "item": "kaleidoscope_sculk:sculk_mooncake"
+        },
+        "stir_fry_count": 5,
+        "time": 200
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "kaleidoscope_sculk:eerie_meat"
+  },
+  "result": "kaleidoscope_sculk:cooked_eerie_meat"
+}

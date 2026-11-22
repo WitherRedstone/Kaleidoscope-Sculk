@@ -1,0 +1,224 @@
+[2211月2026 23:40:20.850] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, E:\Minecraft MOD\IDEA\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, kaleidoscope_sculk, --all, --output, D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\src\generated\resources, --existing, D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\src\main\resources, --mixin.config, kaleidoscope_sculk.mixins.json]
+[2211月2026 23:40:20.855] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.2 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[2211月2026 23:40:22.726] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[2211月2026 23:40:22.785] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/Minecraft%20MOD/IDEA/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[2211月2026 23:40:23.628] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft MOD\IDEA\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.10\ccc533c7dd67e0983217197d7549c8b49e7ab453\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[2211月2026 23:40:23.635] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft MOD\IDEA\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.10\e9a2879fe3612ea34b9728ec2633304a1e67d480\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[2211月2026 23:40:23.642] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft MOD\IDEA\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.10\ec5cefbbc65c67302b8fac317010faab85fa14b9\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[2211月2026 23:40:23.649] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft MOD\IDEA\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.10\94dae566be650566ea9115a1414ab76bfcf5a804\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
+[2211月2026 23:40:24.250] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[2211月2026 23:40:27.237] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[2211月2026 23:40:27.265] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, E:\Minecraft MOD\IDEA\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, kaleidoscope_sculk, --all, --output, D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\src\generated\resources, --existing, D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\src\main\resources]
+[2211月2026 23:40:27.331] [main/WARN] [mixin/]: Reference map 'kaleidoscope_sculk.refmap.json' for kaleidoscope_sculk.mixins.json could not be read. If this is a development environment you can ignore this message
+[2211月2026 23:40:35.862] [main/INFO] [mixin/]: Remapping refMap rhino-common-refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.864] [main/INFO] [mixin/]: Remapping refMap jade.refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.865] [main/INFO] [mixin/]: Remapping refMap architectury-forge-refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.866] [main/INFO] [mixin/]: Remapping refMap architectury-common-refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.867] [main/INFO] [mixin/]: Remapping refMap kubejs-forge-refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.869] [main/INFO] [mixin/]: Remapping refMap kubejs-common-refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.870] [main/INFO] [mixin/]: Remapping refMap kaleidoscope_cookery.refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.871] [main/WARN] [mixin/]: Reference map 'kaleidoscope_tavern.refmap.json' for kaleidoscope_tavern.mixins.json could not be read. If this is a development environment you can ignore this message
+[2211月2026 23:40:35.872] [main/INFO] [mixin/]: Remapping refMap ali.refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.874] [main/INFO] [mixin/]: Remapping refMap ali.forge.refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.875] [main/INFO] [mixin/]: Remapping refMap ali.emi.refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:35.876] [main/INFO] [mixin/]: Remapping refMap ali.lootjs.refmap.json using D:\Games\Minecraft\My Mods\Kaleidoscope：Sculk\kaleidoscope_sculk-mc1.20.1-forge\build\createSrgToMcp\output.srg
+[2211月2026 23:40:37.360] [main/WARN] [mixin/]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[2211月2026 23:40:37.361] [main/WARN] [mixin/]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[2211月2026 23:40:37.500] [main/WARN] [mixin/]: Error loading class: dev/emi/emi/screen/RecipeScreen (java.lang.ClassNotFoundException: dev.emi.emi.screen.RecipeScreen)
+[2211月2026 23:40:37.500] [main/WARN] [mixin/]: @Mixin target dev.emi.emi.screen.RecipeScreen was not found ali.emi.mixins.json:MixinRecipeScreen
+[2211月2026 23:40:37.509] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/core/AbstractLootModification (java.lang.ClassNotFoundException: com.almostreliable.lootjs.core.AbstractLootModification)
+[2211月2026 23:40:37.509] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.core.AbstractLootModification was not found ali.lootjs.mixins.json:MixinAbstractLootModification
+[2211月2026 23:40:37.510] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/AddLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.AddLootAction)
+[2211月2026 23:40:37.511] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.AddLootAction was not found ali.lootjs.mixins.json:MixinAddLootAction
+[2211月2026 23:40:37.512] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/AndCondition (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.AndCondition)
+[2211月2026 23:40:37.512] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.AndCondition was not found ali.lootjs.mixins.json:MixinAndCondition
+[2211月2026 23:40:37.513] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/AnyDimension (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.AnyDimension)
+[2211月2026 23:40:37.514] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.AnyDimension was not found ali.lootjs.mixins.json:MixinAnyDimension
+[2211月2026 23:40:37.515] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/AnyStructure (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.AnyStructure)
+[2211月2026 23:40:37.515] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.AnyStructure was not found ali.lootjs.mixins.json:MixinAnyStructure
+[2211月2026 23:40:37.517] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/BiomeCheck (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.BiomeCheck)
+[2211月2026 23:40:37.517] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.BiomeCheck was not found ali.lootjs.mixins.json:MixinBiomeCheck
+[2211月2026 23:40:37.518] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/CompositeLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.CompositeLootAction)
+[2211月2026 23:40:37.518] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.CompositeLootAction was not found ali.lootjs.mixins.json:MixinCompositeLootAction
+[2211月2026 23:40:37.520] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/ContainsLootCondition (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.ContainsLootCondition)
+[2211月2026 23:40:37.520] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.ContainsLootCondition was not found ali.lootjs.mixins.json:MixinContainsLootCondition
+[2211月2026 23:40:37.522] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/CustomParamPredicate (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.CustomParamPredicate)
+[2211月2026 23:40:37.522] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.CustomParamPredicate was not found ali.lootjs.mixins.json:MixinCustomParamPredicate
+[2211月2026 23:40:37.524] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/DropExperienceAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.DropExperienceAction)
+[2211月2026 23:40:37.524] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.DropExperienceAction was not found ali.lootjs.mixins.json:MixinDropExperienceAction
+[2211月2026 23:40:37.525] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/ExplodeAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.ExplodeAction)
+[2211月2026 23:40:37.525] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.ExplodeAction was not found ali.lootjs.mixins.json:MixinExplodeAction
+[2211月2026 23:40:37.527] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/GroupedLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.GroupedLootAction)
+[2211月2026 23:40:37.527] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.GroupedLootAction was not found ali.lootjs.mixins.json:MixinGroupedLootAction
+[2211月2026 23:40:37.528] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/IsLightLevel (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.IsLightLevel)
+[2211月2026 23:40:37.528] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.IsLightLevel was not found ali.lootjs.mixins.json:MixinIsLightLevel
+[2211月2026 23:40:37.529] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/LightningStrikeAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.LightningStrikeAction)
+[2211月2026 23:40:37.529] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.LightningStrikeAction was not found ali.lootjs.mixins.json:MixinLightningStrikeAction
+[2211月2026 23:40:37.531] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/core/LootEntry (java.lang.ClassNotFoundException: com.almostreliable.lootjs.core.LootEntry)
+[2211月2026 23:40:37.531] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.core.LootEntry was not found ali.lootjs.mixins.json:MixinLootEntry
+[2211月2026 23:40:37.532] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/LootItemConditionWrapper (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.LootItemConditionWrapper)
+[2211月2026 23:40:37.532] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.LootItemConditionWrapper was not found ali.lootjs.mixins.json:MixinLootItemConditionWrapper
+[2211月2026 23:40:37.534] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/LootItemFunctionWrapperAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.LootItemFunctionWrapperAction)
+[2211月2026 23:40:37.534] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.LootItemFunctionWrapperAction was not found ali.lootjs.mixins.json:MixinLootItemFunctionWrapperAction
+[2211月2026 23:40:37.535] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/core/LootModificationByBlock (java.lang.ClassNotFoundException: com.almostreliable.lootjs.core.LootModificationByBlock)
+[2211月2026 23:40:37.535] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.core.LootModificationByBlock was not found ali.lootjs.mixins.json:MixinLootModificationByBlock
+[2211月2026 23:40:37.537] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/core/LootModificationByEntity (java.lang.ClassNotFoundException: com.almostreliable.lootjs.core.LootModificationByEntity)
+[2211月2026 23:40:37.537] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.core.LootModificationByEntity was not found ali.lootjs.mixins.json:MixinLootModificationByEntity
+[2211月2026 23:40:37.539] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/core/LootModificationByTable (java.lang.ClassNotFoundException: com.almostreliable.lootjs.core.LootModificationByTable)
+[2211月2026 23:40:37.539] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.core.LootModificationByTable was not found ali.lootjs.mixins.json:MixinLootModificationByTable
+[2211月2026 23:40:37.540] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/core/LootModificationByType (java.lang.ClassNotFoundException: com.almostreliable.lootjs.core.LootModificationByType)
+[2211月2026 23:40:37.540] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.core.LootModificationByType was not found ali.lootjs.mixins.json:MixinLootModificationByType
+[2211月2026 23:40:37.542] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/LootModificationsAPI (java.lang.ClassNotFoundException: com.almostreliable.lootjs.LootModificationsAPI)
+[2211月2026 23:40:37.542] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.LootModificationsAPI was not found ali.lootjs.mixins.json:MixinLootModificationsAPI
+[2211月2026 23:40:37.543] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/MainHandTableBonus (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.MainHandTableBonus)
+[2211月2026 23:40:37.543] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.MainHandTableBonus was not found ali.lootjs.mixins.json:MixinMainHandTableBonus
+[2211月2026 23:40:37.545] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/MatchEquipmentSlot (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.MatchEquipmentSlot)
+[2211月2026 23:40:37.545] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.MatchEquipmentSlot was not found ali.lootjs.mixins.json:MixinMatchEquipmentSlot
+[2211月2026 23:40:37.546] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/MatchFluid (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.MatchFluid)
+[2211月2026 23:40:37.546] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.MatchFluid was not found ali.lootjs.mixins.json:MixinMatchFluid
+[2211月2026 23:40:37.547] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/MatchKillerDistance (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.MatchKillerDistance)
+[2211月2026 23:40:37.547] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.MatchKillerDistance was not found ali.lootjs.mixins.json:MixinMatchKillerDistance
+[2211月2026 23:40:37.549] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/MatchPlayer (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.MatchPlayer)
+[2211月2026 23:40:37.549] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.MatchPlayer was not found ali.lootjs.mixins.json:MixinMatchPlayer
+[2211月2026 23:40:37.550] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/ModifyLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.ModifyLootAction)
+[2211月2026 23:40:37.550] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.ModifyLootAction was not found ali.lootjs.mixins.json:MixinModifyLootAction
+[2211月2026 23:40:37.552] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/NotCondition (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.NotCondition)
+[2211月2026 23:40:37.552] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.NotCondition was not found ali.lootjs.mixins.json:MixinNotCondition
+[2211月2026 23:40:37.554] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/OrCondition (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.OrCondition)
+[2211月2026 23:40:37.554] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.OrCondition was not found ali.lootjs.mixins.json:MixinOrCondition
+[2211月2026 23:40:37.555] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/PlayerParamPredicate (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.PlayerParamPredicate)
+[2211月2026 23:40:37.555] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.PlayerParamPredicate was not found ali.lootjs.mixins.json:MixinPlayerParamPredicate
+[2211月2026 23:40:37.556] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/RemoveLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.RemoveLootAction)
+[2211月2026 23:40:37.557] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.RemoveLootAction was not found ali.lootjs.mixins.json:MixinRemoveLootAction
+[2211月2026 23:40:37.558] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/ReplaceLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.ReplaceLootAction)
+[2211月2026 23:40:37.558] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.ReplaceLootAction was not found ali.lootjs.mixins.json:MixinReplaceLootAction
+[2211月2026 23:40:37.560] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/action/WeightedAddLootAction (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.action.WeightedAddLootAction)
+[2211月2026 23:40:37.560] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.action.WeightedAddLootAction was not found ali.lootjs.mixins.json:MixinWeightedAddLootAction
+[2211月2026 23:40:37.588] [main/WARN] [mixin/]: Error loading class: com/almostreliable/lootjs/loot/condition/WrappedDamageSourceCondition (java.lang.ClassNotFoundException: com.almostreliable.lootjs.loot.condition.WrappedDamageSourceCondition)
+[2211月2026 23:40:37.589] [main/WARN] [mixin/]: @Mixin target com.almostreliable.lootjs.loot.condition.WrappedDamageSourceCondition was not found ali.lootjs.mixins.json:MixinWrappedDamageSourceCondition
+[2211月2026 23:40:38.315] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.2).
+[2211月2026 23:40:39.182] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [kaleidoscope_sculk]
+[2211月2026 23:40:45.839] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
+[2211月2026 23:40:45.841] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.10 Initialized
+[2211月2026 23:40:46.061] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[2211月2026 23:40:46.062] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[2211月2026 23:40:46.073] [modloading-worker-0/INFO] [KubeJS Startup/]: Capturing errors for startup scripts enabled
+[2211月2026 23:40:46.075] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[2211月2026 23:40:46.079] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[2211月2026 23:40:46.101] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[2211月2026 23:40:46.102] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kaleidoscope_cookery
+[2211月2026 23:40:46.107] [modloading-worker-0/INFO] [KubeJS/]: Done in 28.72 ms
+[2211月2026 23:40:46.412] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[2211月2026 23:40:46.414] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[2211月2026 23:40:46.486] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[2211月2026 23:40:46.490] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 3.496 ms
+[2211月2026 23:40:46.581] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[2211月2026 23:40:46.584] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[2211月2026 23:40:46.586] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[2211月2026 23:40:46.663] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.081 s
+[2211月2026 23:40:46.993] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
+[2211月2026 23:40:46.995] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.043 s
+[2211月2026 23:40:46.998] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.332 s with 0 errors and 0 warnings
+[2211月2026 23:40:47.057] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[2211月2026 23:40:47.059] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:send_data_from_server
+[2211月2026 23:40:47.059] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:paint
+[2211月2026 23:40:47.060] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:add_stage
+[2211月2026 23:40:47.060] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:remove_stage
+[2211月2026 23:40:47.061] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:sync_stages
+[2211月2026 23:40:47.062] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[2211月2026 23:40:47.063] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:toast
+[2211月2026 23:40:47.065] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[2211月2026 23:40:47.066] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:display_server_errors
+[2211月2026 23:40:47.067] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:display_client_errors
+[2211月2026 23:40:47.140] [main/INFO] [KubeJS/]: Skipping minecraft:sound_event registry
+[2211月2026 23:40:47.148] [main/INFO] [KubeJS/]: Skipping minecraft:fluid registry
+[2211月2026 23:40:47.155] [main/INFO] [KubeJS/]: Skipping minecraft:block registry
+[2211月2026 23:40:47.482] [main/INFO] [KubeJS/]: Skipping minecraft:attribute registry
+[2211月2026 23:40:47.484] [main/INFO] [KubeJS/]: Skipping minecraft:mob_effect registry
+[2211月2026 23:40:47.487] [main/INFO] [KubeJS/]: Skipping minecraft:particle_type registry
+[2211月2026 23:40:47.491] [main/INFO] [KubeJS/]: Skipping minecraft:item registry
+[2211月2026 23:40:47.517] [main/INFO] [KubeJS/]: Skipping minecraft:entity_type registry
+[2211月2026 23:40:47.524] [main/INFO] [KubeJS/]: Skipping minecraft:sensor_type registry
+[2211月2026 23:40:47.525] [main/INFO] [KubeJS/]: Skipping minecraft:memory_module_type registry
+[2211月2026 23:40:47.526] [main/INFO] [KubeJS/]: Skipping minecraft:potion registry
+[2211月2026 23:40:47.526] [main/INFO] [KubeJS/]: Skipping minecraft:game_event registry
+[2211月2026 23:40:47.527] [main/INFO] [KubeJS/]: Skipping minecraft:enchantment registry
+[2211月2026 23:40:47.528] [main/INFO] [KubeJS/]: Skipping minecraft:block_entity_type registry
+[2211月2026 23:40:47.547] [main/INFO] [KubeJS/]: Skipping minecraft:painting_variant registry
+[2211月2026 23:40:47.547] [main/INFO] [KubeJS/]: Skipping minecraft:stat_type registry
+[2211月2026 23:40:47.548] [main/INFO] [KubeJS/]: Skipping minecraft:custom_stat registry
+[2211月2026 23:40:47.548] [main/INFO] [KubeJS/]: Skipping minecraft:chunk_status registry
+[2211月2026 23:40:47.551] [main/INFO] [KubeJS/]: Skipping minecraft:rule_test registry
+[2211月2026 23:40:47.552] [main/INFO] [KubeJS/]: Skipping minecraft:rule_block_entity_modifier registry
+[2211月2026 23:40:47.553] [main/INFO] [KubeJS/]: Skipping minecraft:pos_rule_test registry
+[2211月2026 23:40:47.554] [main/INFO] [KubeJS/]: Skipping minecraft:menu registry
+[2211月2026 23:40:47.555] [main/INFO] [KubeJS/]: Skipping minecraft:recipe_type registry
+[2211月2026 23:40:47.555] [main/INFO] [KubeJS/]: Skipping minecraft:recipe_serializer registry
+[2211月2026 23:40:47.571] [main/INFO] [KubeJS/]: Skipping minecraft:position_source_type registry
+[2211月2026 23:40:47.572] [main/INFO] [KubeJS/]: Skipping minecraft:command_argument_type registry
+[2211月2026 23:40:47.574] [main/INFO] [KubeJS/]: Skipping minecraft:villager_type registry
+[2211月2026 23:40:47.574] [main/INFO] [KubeJS/]: Skipping minecraft:villager_profession registry
+[2211月2026 23:40:47.575] [main/INFO] [KubeJS/]: Skipping minecraft:point_of_interest_type registry
+[2211月2026 23:40:47.577] [main/INFO] [KubeJS/]: Skipping minecraft:schedule registry
+[2211月2026 23:40:47.577] [main/INFO] [KubeJS/]: Skipping minecraft:activity registry
+[2211月2026 23:40:47.577] [main/INFO] [KubeJS/]: Skipping minecraft:loot_pool_entry_type registry
+[2211月2026 23:40:47.578] [main/INFO] [KubeJS/]: Skipping minecraft:loot_function_type registry
+[2211月2026 23:40:47.579] [main/INFO] [KubeJS/]: Skipping minecraft:loot_condition_type registry
+[2211月2026 23:40:47.590] [main/INFO] [KubeJS/]: Skipping minecraft:loot_number_provider_type registry
+[2211月2026 23:40:47.591] [main/INFO] [KubeJS/]: Skipping minecraft:loot_nbt_provider_type registry
+[2211月2026 23:40:47.591] [main/INFO] [KubeJS/]: Skipping minecraft:loot_score_provider_type registry
+[2211月2026 23:40:47.592] [main/INFO] [KubeJS/]: Skipping minecraft:float_provider_type registry
+[2211月2026 23:40:47.592] [main/INFO] [KubeJS/]: Skipping minecraft:int_provider_type registry
+[2211月2026 23:40:47.593] [main/INFO] [KubeJS/]: Skipping minecraft:height_provider_type registry
+[2211月2026 23:40:47.594] [main/INFO] [KubeJS/]: Skipping minecraft:block_predicate_type registry
+[2211月2026 23:40:47.595] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/carver registry
+[2211月2026 23:40:47.596] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/feature registry
+[2211月2026 23:40:47.596] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/structure_processor registry
+[2211月2026 23:40:47.597] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/structure_placement registry
+[2211月2026 23:40:47.597] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/structure_piece registry
+[2211月2026 23:40:47.598] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/structure_type registry
+[2211月2026 23:40:47.599] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/placement_modifier_type registry
+[2211月2026 23:40:47.599] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/block_state_provider_type registry
+[2211月2026 23:40:47.600] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/foliage_placer_type registry
+[2211月2026 23:40:47.600] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/trunk_placer_type registry
+[2211月2026 23:40:47.601] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/root_placer_type registry
+[2211月2026 23:40:47.601] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/tree_decorator_type registry
+[2211月2026 23:40:47.604] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/feature_size_type registry
+[2211月2026 23:40:47.605] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/biome_source registry
+[2211月2026 23:40:47.606] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/chunk_generator registry
+[2211月2026 23:40:47.606] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/material_condition registry
+[2211月2026 23:40:47.607] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/material_rule registry
+[2211月2026 23:40:47.608] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/density_function_type registry
+[2211月2026 23:40:47.608] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/structure_pool_element registry
+[2211月2026 23:40:47.609] [main/INFO] [KubeJS/]: Skipping minecraft:cat_variant registry
+[2211月2026 23:40:47.609] [main/INFO] [KubeJS/]: Skipping minecraft:frog_variant registry
+[2211月2026 23:40:47.610] [main/INFO] [KubeJS/]: Skipping minecraft:banner_pattern registry
+[2211月2026 23:40:47.610] [main/INFO] [KubeJS/]: Skipping minecraft:instrument registry
+[2211月2026 23:40:47.611] [main/INFO] [KubeJS/]: Skipping minecraft:decorated_pot_patterns registry
+[2211月2026 23:40:47.612] [main/INFO] [KubeJS/]: Skipping minecraft:creative_mode_tab registry
+[2211月2026 23:40:47.616] [main/INFO] [KubeJS/]: Skipping forge:biome_modifier_serializers registry
+[2211月2026 23:40:47.625] [main/INFO] [KubeJS/]: Skipping forge:display_contexts registry
+[2211月2026 23:40:47.627] [main/INFO] [KubeJS/]: Skipping forge:entity_data_serializers registry
+[2211月2026 23:40:47.627] [main/INFO] [KubeJS/]: Skipping forge:fluid_type registry
+[2211月2026 23:40:47.633] [main/INFO] [KubeJS/]: Skipping forge:global_loot_modifier_serializers registry
+[2211月2026 23:40:47.636] [main/INFO] [KubeJS/]: Skipping forge:holder_set_type registry
+[2211月2026 23:40:47.643] [main/INFO] [KubeJS/]: Skipping forge:structure_modifier_serializers registry
+[2211月2026 23:40:47.645] [main/INFO] [KubeJS/]: Skipping minecraft:worldgen/biome registry
+[2211月2026 23:40:49.431] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/E:/Minecraft%20MOD/IDEA/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[2211月2026 23:40:49.432] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/E:/Minecraft%20MOD/IDEA/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.4.10_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[2211月2026 23:40:50.517] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id kaleidoscope_sculk
+[2211月2026 23:40:50.951] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id kaleidoscope_sculk finished after 434 ms
+[2211月2026 23:40:50.951] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id kaleidoscope_sculk
+[2211月2026 23:40:50.956] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id kaleidoscope_sculk finished after 3 ms
+[2211月2026 23:40:50.956] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:worldgen/biome mod id vanilla
+[2211月2026 23:40:50.957] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:worldgen/biome mod id vanilla finished after 1 ms
+[2211月2026 23:40:50.957] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[2211月2026 23:40:51.026] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 69 ms
+[2211月2026 23:40:51.027] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[2211月2026 23:40:51.084] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 56 ms
+[2211月2026 23:40:51.084] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[2211月2026 23:40:51.093] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 9 ms
+[2211月2026 23:40:51.093] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Drink Effect Data
+[2211月2026 23:40:51.098] [main/INFO] [net.minecraft.data.DataGenerator/]: Drink Effect Data finished after 5 ms
+[2211月2026 23:40:51.098] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 581 ms
+[2211月2026 23:40:51.109] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 89, old count: 88, new count: 90, removed stale: 0, written: 1

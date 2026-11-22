@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.tequilacat.kaleidoscope_sculk.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "kaleidoscope_sculk.refmap.json",
+  "mixins": [
+    "CookeryCropSickleMixin",
+    "MobEchoTargetMixin",
+    "PotionContentsMixin",
+    "WardenVibrationUserMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

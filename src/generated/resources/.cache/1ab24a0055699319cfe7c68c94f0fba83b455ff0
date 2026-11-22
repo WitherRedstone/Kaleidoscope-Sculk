@@ -1,0 +1,21 @@
+// 1.20.1	2026-11-22T22:46:12.8554126	Tags for minecraft:item mod id kaleidoscope_sculk
+9af7fbfcb3fa8cc983c1de4f900a8c137db9ee70 data/c/tags/items/dough.json
+6fd87d70530417b16cb001de553b4b3796e58683 data/c/tags/items/foods/berry.json
+c6e58ee711e3947b52d4c2fb210d3a0f7f59f8e5 data/c/tags/items/foods/cooked_meat.json
+6f25ce271c33dda9fd569823ee78da02618ec831 data/c/tags/items/foods/raw_meat.json
+252d98d9e4e7dc9fe2e9e4fac4fb55630982f64e data/c/tags/items/mushrooms.json
+0f69fa423d891a83536116e14bc72117d1f23f0a data/c/tags/items/tools/knives.json
+0f69fa423d891a83536116e14bc72117d1f23f0a data/farmersdelight/tags/items/tools/knives.json
+f481d4bd640a65a9271b028ab46f01af9434a2c9 data/kaleidoscope_cookery/tags/items/caterpillars.json
+0f69fa423d891a83536116e14bc72117d1f23f0a data/kaleidoscope_cookery/tags/items/enchantable/kitchen_knives.json
+fab325f00b73a55d5dfb2f438c32314363a4e6ca data/kaleidoscope_cookery/tags/items/enchantable/sickles.json
+0f69fa423d891a83536116e14bc72117d1f23f0a data/kaleidoscope_cookery/tags/items/kitchen_knife.json
+f481d4bd640a65a9271b028ab46f01af9434a2c9 data/kaleidoscope_cookery/tags/items/meals.json
+a702aa9002063a79d9624ccd54e5f7d342d590dc data/kaleidoscope_cookery/tags/items/tea_bags.json
+18c712cb61b59a07ece2476fdd5f78305e3af553 data/kaleidoscope_sculk/tags/items/kitchen_knives.json
+629ddff3a8534aa187426630ef1c4f18bf34c92d data/kaleidoscope_sculk/tags/items/smithing_templates.json
+db52f4d8bfc61d4d2b558c23f011d5680f96b190 data/kaleidoscope_tavern/tags/items/cocktail_ingredient_blue.json
+29cbc41d361d559c2c2a1ced5e9b7931390a11ba data/kaleidoscope_tavern/tags/items/cocktail_ingredient_gold.json
+5b993e8bac09bf036a83d09fcb1d5ffae02a22f9 data/kaleidoscope_tavern/tags/items/cocktail_ingredient_red.json
+6fd87d70530417b16cb001de553b4b3796e58683 data/minecraft/tags/items/fox_food.json
+a0ba616fe2ecd9bbd67f16c6e8966cfca4a9a8eb data/minecraft/tags/items/swords.json

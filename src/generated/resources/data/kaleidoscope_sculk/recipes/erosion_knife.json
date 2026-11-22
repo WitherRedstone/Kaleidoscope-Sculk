@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "C": {
+      "item": "kaleidoscope_sculk:sculk_branch"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "IB ",
+    "IC ",
+    "   "
+  ],
+  "result": {
+    "item": "kaleidoscope_sculk:erosion_knife"
+  },
+  "show_notification": true
+}
